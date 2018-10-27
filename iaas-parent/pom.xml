@@ -9,7 +9,7 @@
 	<packaging>pom</packaging>
 	<url>http://maven.apache.org</url>
 	<modules>
-		<module>iaas-persistence</module>
+		<module>persistence</module>
 		<module>iaas-common</module>
-	</modules>
+	</modules>	
 </project>
