@@ -1,4 +1,4 @@
-package org.persistence;
+package org.iaas.persistence;
 
 /**
  * Hello world!

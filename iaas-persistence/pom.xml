@@ -7,8 +7,8 @@
     <artifactId>iaas-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>persistence</artifactId>
-  <name>persistence</name>
+  <artifactId>iaas-persistence</artifactId>
+  <name>iaas-persistence</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
