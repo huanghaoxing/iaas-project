@@ -11,5 +11,6 @@
 	<modules>
 		<module>iaas-common</module>
 		<module>iaas-persistence</module>
+		<module>iaas-codegen</module>
 	</modules>	
 </project>
